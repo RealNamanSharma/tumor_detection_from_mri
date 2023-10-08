@@ -4,7 +4,7 @@ import numpy as np
 import cv2
 
 
-img_path = './sample_images/normal_test4.jpg' #Put image path here or you can either use your camera as src
+img_path = './your_scan.jpg' #Put image path here or you can either use your camera as src
 
 
 img = cv2.imread(img_path)
